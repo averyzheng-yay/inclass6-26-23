@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Median Age",
+    "title": "Median Age in US Counties",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "# A tibble: 3,221 × 5\n   GEOID NAME                        population med_age_male med_age_female\n   &lt;chr&gt; &lt;chr&gt;                            &lt;dbl&gt;        &lt;dbl&gt;          &lt;dbl&gt;\n 1 05131 Sebastian County, Arkansas      125744         35.3           38  \n 2 05133 Sevier County, Arkansas          17058         32.7           34.6\n 3 05135 Sharp County, Arkansas           17264         45.8           48.2\n 4 05137 Stone County, Arkansas           12394         46.9           48.4\n 5 05139 Union County, Arkansas           41639         38.5           41.5\n 6 05141 Van Buren County, Arkansas       17295         45.5           47.7\n 7 05143 Washington County, Arkansas     203065         30             31.6\n 8 05145 White County, Arkansas           77076         34.8           37.1\n 9 05149 Yell County, Arkansas            22185         36.5           39  \n10 06011 Colusa County, California        21419         32.5           34.6\n# ℹ 3,211 more rows"
   },
   {
     "objectID": "about.html",
